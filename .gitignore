@@ -1,0 +1,3 @@
+/pdfenv/
+*.env
+*.pkl
